@@ -3,7 +3,7 @@ package week3.day3;
 
 public class Desktop implements Software, Hardwares {
 	
-	public void desktopMobile() {
+	public void desktopMobile()xx {
 		System.out.println("THis is desktop Mobile - Desktop Class");
 	}
 		
